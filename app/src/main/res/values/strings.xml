@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Universe Video Maker</string>
+
+    <string name="admob_app_id">ca-app-pub-7994250233949511~3623290327</string>
+
+    <string name="pp"><u>Privacy Policy</u></string>
+    <string name="file_provider_authority" translatable="false">com.videomaker.photovideoeditorwithanimation.fileprovider</string>
+
+    <string name="exit">Rate us</string>
+    <string name="sure_exit">Do you loved it? Rate it on google play</string>
+    <string name="rate_now">Rate now</string>
+    <string name="no_exit">No, Exit</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="delete_video_title">Delete Video!</string>
+
+    <string name="btn_start">Start</string>
+    <string name="btn_view_album">Album</string>
+    <string name="btn_share">Share</string>
+    <string name="_u_privacy_policy_u_"><u>Privacy Policy</u></string>
+
+    <string name="video_craetion_msg">Your video is creating\nPlease wait some time</string>
+
+    <string name="like_us">Like us</string>
+    <string name="rate_us">Rate us</string>
+    <string name="invite">Invite</string>
+    <string name="applicatoin_not_found">Applicatoin not found</string>
+
+    <string name="artist_name">Movie maker</string>
+    <string name="select_images">Select Images</string>
+    <string name="edit_video">Edit Video</string>
+    <string name="edit_images">Edit Images</string>
+    <string name="select_music">Select Music</string>
+    <string name="created_videos">Created Videos</string>
+    <string name="share_video">Share Video</string>
+
+    <string name="upload_to_youtube">Share to YouTube</string>
+    <string name="share_native">Share</string>
+    <string name="delete">Delete</string>
+    <string name="movie_album">Movie Album</string>
+    <string name="album_not_created_yet">Album not Created yet</string>
+    <string name="select_duration">Select Duration</string>
+    <string name="preview">Preview</string>
+    <string name="frame_image">Frame Image</string>
+    <string name="play_pause_image">Play Pause Image</string>
+    <string name="duration">00:00</string>
+    <string name="swap_image_button">Swap Image button</string>
+    <string name="add_more_images">Add More Images</string>
+    <string name="add_music_button">Add Music button</string>
+    <string name="add_duration_button">Add Duration button</string>
+    <string name="shadow_image">shadow_image</string>
+    <string name="create_video">Creating Video 0%</string>
+    <string name="creating_video">Creating Video</string>
+
+    <string name="tv_created_video">Created Video</string>
+
+    <string name="permission_check_title">"Universal Video Maker With Songs Permissions:"</string>
+    <string name="permission_check_message">"All images and songs are for entertainment purpose only.
+
+All Images and songs are Downloaded from internet and social media, if you have any issue with any image then please contact us with image details.
+
+We will remove that image from in this app.
+
+Thank you for download app."</string>
+
+    <string name="start_marker">Start marker</string>
+    <string name="end_marker">End marker</string>
+    <string name="start_label">Start:</string>
+    <string name="start">Start</string>
+    <string name="rewind">Rewind</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="ffwd">Fast forward</string>
+    <string name="end_label">End:</string>
+    <string name="end">End</string>
+    <string name="delete_tmp_error">Error deleting temporary file</string>
+    <string name="progress_dialog_loading">Loading&#8230;</string>
+    <string name="progress_dialog_saving">Saving&#8230;</string>
+    <string name="no_extension_error">"Sorry, audiocutter can't edit a file if it doesn't have an extension like .mp3 or .wav"</string>
+    <string name="bad_extension_error">Sorry, Audiocutter is not yet able to edit files of type</string>
+    <string name="play_error">Unable to play this media file</string>
+    <string name="alert_title_success">Success</string>
+    <string name="alert_title_failure">Error</string>
+    <string name="alert_ok_button">OK</string>
+    <string name="no_unique_filename">Unable to find unique filename</string>
+    <string name="no_space_error">Your SD card is full, there is not enough space to save this file.</string>
+    <string name="write_error">Error writing file</string>
+    <string name="too_small_error">"Can't save a file that small, try making it longer."</string>
+
+</resources>
